@@ -41,3 +41,23 @@
 <meta name="msapplication-TileImage" content="https://www.brandfield.nl/skin/frontend/brandfield/default/favicons/mstile-144x144.png">
 <meta name="msapplication-config" content="https://www.brandfield.nl/skin/frontend/brandfield/default/favicons/browserconfig.xml">
 <!-- END FAV ICONS -->
+    <link rel="stylesheet" type="text/css" href="https://www.brandfield.nl/media/css_secure/13d6a9765e44e8144a41e43a7c691720.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.brandfield.nl/media/css_secure/c65051a78dbd95b0a5795f1af33cf3f9.css" - />
+<script type="text/javascript" src="https://www.brandfield.nl/media/js/60d4ebb4f6f605a4d7994668c5dced3e.js"></script>
+<script type="text/javascript" src="https://www.brandfield.nl/media/js/1e70bdb343cfbf1cb43f894d297bc7d4.js" -></script>
+<link rel="alternate" hreflang="nl-nl" href="https://www.brandfield.nl/sieraden/" />
+<link rel="alternate" hreflang="nl-be" href="https://www.brandfield.be/juwelen/" />
+<link rel="alternate" hreflang="en" href="https://www.brandfield.com/jewelry/" />
+<link rel="alternate" hreflang="cs" href="https://www.brandfield.cz/sperky/" />
+<link rel="alternate" hreflang="de" href="https://www.brandfield.de/schmuck/" />
+<link rel="alternate" hreflang="da" href="https://www.brandfield.dk/smykker/" />
+<link rel="alternate" hreflang="es" href="https://www.brandfield.es/joyas/" />
+<link rel="alternate" hreflang="fr" href="https://www.brandfield.fr/bijoux/" />
+<link rel="alternate" hreflang="hu" href="https://www.brandfield.hu/ekszerek/" />
+<link rel="alternate" hreflang="pl" href="https://www.brandfield.pl/bizuteria/" />
+<link rel="alternate" hreflang="sv" href="https://www.brandfield.se/smycken/" />
+<link rel="alternate" hreflang="it" href="https://www.brand-field.it/gioielli/" />
+<link rel="canonical" href="https://www.brandfield.nl/sieraden/" />
+<link rel="next" href="https://www.brandfield.nl/sieraden/?p=2" />
+
+<script type="text/javascript">
