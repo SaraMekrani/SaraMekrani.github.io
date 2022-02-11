@@ -1,9 +1,9 @@
 <html>
-  
- <head>
+
+<head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
@@ -18,9 +18,8 @@ p {
 </style>
 </head>
 <body> 
-  
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
+   
+   <style>
 * {box-sizing: border-box}
 body {font-family: Arial, Helvetica, sans-serif;}
 
@@ -56,96 +55,44 @@ body {font-family: Arial, Helvetica, sans-serif;}
     text-align: left;
   }
 }
-body:before {
-content: "";
-display: block;
-width: 100%;
-height: 60%;
-position: fixed;
-left: 0;
-top: 0;
-z-index: -10;
-background-image: <img src="https://www.finaste.nl/image/cache/catalog/Necklaces/FNE-FI-0030/mix-van-gouden-sieraden-met-parels-578x578.jpg" alt="Initial armband chain pearl goud | Gouden letter ketting | Finaste"/>
-background-repeat: no-repeat;
-background-size: cover;
-background-position: 
-</style>
-<body>
 
-
-  <div class="navbar">
-    <a class="active" href="index.html">Home</a>
-    <a href="SaarsSieraden.html">saarssieraden</a>
+</style> 
+  
+  
+  
+<div class="navbar">
+    <a href="index.html">Home</a>
+    <a class="active" href="saarsieraden.html">saarsieraden</a>
     <a href="tarieven.html">tarieven</a>
-    <a href="overmij& Mijn zelfgemaakte Sieraden.html">Over mij</a>
-    <a href="contactSaar.html">Contact</a>
+    <a href="overmij.html">Over mij</a>
+    <a href="contactsaar.html">Contact</a>
 
 </div>
-<center>
-<h1>
-<p style="color:white">
+<body>
 
-</p>
-</h1>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h1>
-<p style="color:Black">
-<table style="width:100%">
- <tr>
- <p><mark>
-  <td> <p><strong> Sara's Zelfgemaakte Sieraden</td> </strong>
-  <td> <p><small> <h1 style="font-size:50%;"> Hoi, welkom bij Sara's sieraden shop. Ben jij op zoek naar de aller goedkoopste mode en trends van dit moment? Zoek dan niet verder maar kom op bezoek bij mijn shop. Bij Sara's sieraden shop garanderen wij namelijk dat jij de allerlaagste prijs betaalt voor alle gewilde Musthaves! Vind jij namelijk ergens dezelfde Musthaves voor een lager bedrag? Dan krijg jij deze Musthaves van ons voor hetzelfde bedrag PLUS nog eens 10% extra korting! Deze zogeheten prijsgarantie maakt ons uniek en zeer populair onder de mooiste sieraden over de hele wereld.
+<h2>Beschermingsbewind </h2>
+<h4>Bij beschermingsbewind – ook wel onderbewindstelling genoemd – beheert een bewindvoerder de financiën en zorgt er onder andere voor dat de vaste lasten op tijd worden betaald. Als er sprake is van problematische schulden tracht de bewindvoerder een oplossing te realiseren. </h4>
 
-​
-
-  </td> </small> </h1>
- </tr> Sara's specialisten.
- <tr>
-  <td> <p><strong> </td> </strong>
-  <td> <p><small> <h1 style="font-size:50%;"> Sara (ik) ben gespcialiseerd in het maken van sieraden. Onder andere mooie diamnten armbanden die nergens anders te verkrijgen zijn. Door deze unique sieraden val jij het meeste & mooist op!.</td> </small> </h1>
-</table>
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-</center>
 </body>
+<body>
+<h2>Bewindvoering aanvragen </h2>
+<h4>Alvorens bewindvoering aan te vragen, zal er een persoonlijk gesprek worden ingepland. Als er hulpverleners betrokken zijn, kan het wenselijk zijn dat zij bij de kennismaking aanwezig zijn. Uiteraard blijven de gesprekken strikt vertrouwelijk en is er aandacht voor uw persoonlijke achtergrond en situatie. </h4>
+</body>
+<body>  
+    
+<h2>Persoonlijk gesprek </h2>
+<h4>Tijdens dit gesprek wordt een overzicht gemaakt van de persoonlijke financiële situatie en wordt bepaald of bewindvoering haalbaar is. Als de klik er is, kan de aanvraag tot bewindvoering in gang worden gezet. Ratio Bewind neemt alle benodigde formulieren met cliënten samen door en verzorgt de verzending van de stukken naar de rechtbank.
 
-</html>
+Tijdens het gesprek zal uitvoerig worden stilgestaan bij de procedure tot aanvraag van bewindvoering en wat cliënten hiervan kunnen verwachten. De kantonrechter stelt tenslotte het bewind in en houdt eveneens toezicht op de manier waarop Ratio Bewind met de financiën van de cliënt omgaat. </h4>
+
+</body> 
+<body>
+    
+ <h2>Persoonlijk gesprek </h2>
+ <h4>Ratio Bewind neemt het beheer van alle gelden en goederen die onder bewind staan over, zodra de benoeming door de kantonrechter heeft plaatsgevonden en een vaste bewindvoerder is aangewezen. Het is heel belangrijk om vanaf dag 1 duidelijke afspraken te maken: dit vormt de basis voor een goede samenwerking. De afspraken worden samen met de cliënt opgesteld en in een plan van aanpak vastgelegd.
+
+Cliënten kunnen uiteraard op ieder gewenst moment een actueel overzicht van de beheerrekening online opvragen, via een cliënt login. </h4>
+    
+ </body>   
+    
+ </html>
